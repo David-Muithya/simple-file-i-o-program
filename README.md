@@ -16,14 +16,14 @@ Error handling for file operations
 
 Compile the Program: Use a C++ compiler to compile the file_handling.cpp file.
 
-```sh
-g++ file_handling.cpp -o file_handling```
-
+``sh
+g++ file_handling.cpp -o file_handling
+``
 Run the Program: Execute the compiled program.
 
-```sh
-./file_handling```
-
+``sh
+./file_handling
+``
 **Usage**
 
 Run the program.
